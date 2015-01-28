@@ -22,7 +22,7 @@ Next, checkout the mojavelinux/dzslides repo inside some directory out of curren
 ----
 cd ~/opt/
 git clone https://github.com/mojavelinux/dzslides.git
-cd ~/.asciidoc/backends/
+cd ~/.asciidoc/backends/dzslides/
 ln -s ~/opt/dzslides .
 ----
 
